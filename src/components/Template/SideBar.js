@@ -23,7 +23,8 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Naval Tweets</Link> : <Link to="/aristotle-quotes" className="button">Aristotle Quotes</Link>}
+          {!window.location.pathname.includes('/aristotle-quotes') ? <Link to="/aristotle-quotes" className="button">Aristotle Quotes</Link> : <Link to="/naval-tweet" className="button">Naval Tweets</Link>}
         </li>
       </ul>
     </section>
