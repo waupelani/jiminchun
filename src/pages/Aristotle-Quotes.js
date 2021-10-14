@@ -25,7 +25,7 @@ const Tweet = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/aristotle-quotes">Aristotle Quotes</Link></h2>
-          <p><b>Sep 22, 2021</b> <strong>{min} min read</strong></p>
+          <p><strong>{min} min read</strong></p>
         </div>
       </header>
       <ReactMarkdown

@@ -15,8 +15,9 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
-const Post1 = lazy(() => import('./pages/Naval-Tweet'));
+const NavalTweet = lazy(() => import('./pages/Naval-Tweet'));
 const AristotleQuotes = lazy(() => import('./pages/Aristotle-Quotes'));
+const Beats = lazy(() => import('./pages/Beats'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -24,10 +25,11 @@ const App = () => (
       <Switch>
         <Route exact path="/" component={Index} />
         <Route path="/about" component={About} />
-        <Route path="/naval-tweet" component={Post1} />
+        <Route path="/naval-tweet" component={NavalTweet} />
         <Route path="/aristotle-quotes" component={AristotleQuotes} />
         <Route path="/projects" component={Projects} />
         <Route path="/stats" component={Stats} />
+        <Route path="/beats" component={Beats} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route component={NotFound} status={404} />

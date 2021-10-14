@@ -13,18 +13,15 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Jimin Chun</h2>
-        <p><a href="mailto:jmchun95@hotmail.com">jmchun95@hotmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Jimin. I like to design things.
-      </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Naval Tweets</Link> : <Link to="/aristotle-quotes" className="button">Aristotle Quotes</Link>}
-          {!window.location.pathname.includes('/aristotle-quotes') ? <Link to="/aristotle-quotes" className="button">Aristotle Quotes</Link> : <Link to="/naval-tweet" className="button">Naval Tweets</Link>}
+          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Ravkiant</Link> : <Link to="/naval-tweet" className="button">Ravikant</Link>}
+          {!window.location.pathname.includes('/aristotle-quotes') ? <Link to="/aristotle-quotes" className="button">Aristotle</Link> : <Link to="/aristotle-quotes" className="button">Aristotle</Link>}
+          {!window.location.pathname.includes('/beats') ? <Link to="/beats" className="button">Beats</Link> : <Link to="/beats" className="button">Beats</Link>}
         </li>
       </ul>
     </section>

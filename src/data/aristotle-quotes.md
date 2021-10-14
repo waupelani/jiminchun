@@ -1,9 +1,9 @@
 - Knowing yourself is the beginning of all wisdom.
 - What is a friend? A single soul dwelling in two bodies.
 - It is the mark of an educated mind to be able to entertain a thought without accepting it.
-- Educating the mind without educating the heart is no education at all.
+- Educating the mind without educating the heart is no education at all!
 <br><br>
-- Hope is a waking dream.
+- > Hope is a waking dream.
 - No great mind has ever existed without a touch of madness.
 - Happiness depends upon ourselves.
 - Anybody can become angry — that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way — that is not within everybody's power and is not easy.
@@ -35,4 +35,4 @@ The aim of art is to represent not the outward appearance of things, but their i
 - Learning is not child's play; we cannot learn without pain.
 - The whole is greater than the sum of its parts.
 <br><br>
-- Man is by nature a social animal; an individual who is unsocial naturally and not accidentally is either beneath our notice or more than human. Society is something that precedes the individual. Anyone who either cannot lead the common life or is so self-sufficient as not to need to, and therefore does not partake of society, is either a beast or a god. 
+- > Man is by nature a social animal; an individual who is unsocial naturally and not accidentally is either beneath our notice or more than human. Society is something that precedes the individual. Anyone who either cannot lead the common life or is so self-sufficient as not to need to, and therefore does not partake of society, is either a beast or a god. 

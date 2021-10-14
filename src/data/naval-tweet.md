@@ -5,7 +5,6 @@
 - Ignore people playing status games. They gain status by attacking people playing wealth creation games.
 - You’re not going to get rich renting out your time. You must own equity — a piece of a business — to gain your financial freedom.
 - You will get rich by giving society what it wants but does not yet know how to get. At scale.
-<br><br>
 
 # Selling on the Internet
 
