@@ -33,7 +33,7 @@ const App = () => (
         <Route path="/beats" component={Beats} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-        <Route path="/adugustine" component={Augustine} />
+        <Route path="/augustine" component={Augustine} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

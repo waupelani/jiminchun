@@ -19,9 +19,10 @@ const SideBar = () => (
     <section className="blurb">
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Ravkiant</Link> : <Link to="/naval-tweet" className="button">Ravikant</Link>}
           {!window.location.pathname.includes('/aristotle-quotes') ? <Link to="/aristotle-quotes" className="button">Aristotle</Link> : <Link to="/aristotle-quotes" className="button">Aristotle</Link>}
+          {!window.location.pathname.includes('/augustine') ? <Link to="/augustine" className="button">Augustine</Link> : <Link to="/augustine" className="button">Augustine</Link>}
           {!window.location.pathname.includes('/beats') ? <Link to="/beats" className="button">Beats</Link> : <Link to="/beats" className="button">Beats</Link>}
+          {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Ravikant</Link> : <Link to="/naval-tweet" className="button">Ravikant</Link>}
         </li>
       </ul>
     </section>

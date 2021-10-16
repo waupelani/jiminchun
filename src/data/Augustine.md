@@ -1,40 +1,17 @@
-![image info](images/aristotle.jpg)
+![image info](images/augustine.jpg)
 <br><br>
-- Knowing yourself is the beginning of all wisdom.
-- What is a friend? A single soul dwelling in two bodies.
-- It is the mark of an educated mind to be able to entertain a thought without accepting it.
-- Educating the mind without educating the heart is no education at all!
+- > Since love grows within you, so beauty grows. For love is the beauty of the soul.
+- Patience is the companion of wisdom.
+- It was pride that changed angels into devils; it is humility that makes men as angels.
+- The world is a book, and those who do not travel read only a page.
 <br><br>
-- > Hope is a waking dream.
-- No great mind has ever existed without a touch of madness.
-- Happiness depends upon ourselves.
-- Anybody can become angry — that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way — that is not within everybody's power and is not easy.
+- Seek not to understand that you may believe, but believe that you may understand.
+- Miracles are not contrary to nature, but only contrary to what we know about nature.
+- Complete abstinence is easier than perfect moderation.
+- > If you believe what you like in the gospels, and reject what you don't like, it is not the gospel you believe, but yourself.
+- You have made us for yourself, O Lord, and our hearts are restless until they rest in you.
 <br><br>
-- Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.
-- Wishing to be friends is quick work, but friendship is a slow ripening fruit.
-- A friend to all is a friend to none.
-- Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
-<br><br>
-- Those who educate children well are more to be honored than they who produce them; for these only gave them life, those the art of living well.
-- Patience is bitter, but its fruit is sweet.
-- To perceive is to suffer.
-- Those who know, do. Those that understand, teach
-- He who has overcome his fears will truly be free.
-<br><br>
-- The educated differ from the uneducated as much as the living differ from the dead.
-- Whosoever is delighted in solitude, is either a wild beast or a god.
-- I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self.
-- Poverty is the parent of revolution and crime.
-The aim of art is to represent not the outward appearance of things, but their inward significance.
-<br><br>
-- It is not enough to win a war; it is more important to organize the peace.
-- The antidote for fifty enemies is one friend.
-- The high-minded man must care more for the truth than for what people think.
-- Pleasure in the job puts perfection in the work.
-<br><br>
-- To write well, express yourself like the common people, but think like a wise man.
-- One swallow does not make a summer, neither does one fine day; similarly one day or brief time of happiness does not make a person entirely happy.
-- Learning is not child's play; we cannot learn without pain.
-- The whole is greater than the sum of its parts.
-<br><br>
-- > Man is by nature a social animal; an individual who is unsocial naturally and not accidentally is either beneath our notice or more than human. Society is something that precedes the individual. Anyone who either cannot lead the common life or is so self-sufficient as not to need to, and therefore does not partake of society, is either a beast or a god. 
+- Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee.
+- Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.
+- To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement.
+- There is no saint without a past, no sinner without a future.
