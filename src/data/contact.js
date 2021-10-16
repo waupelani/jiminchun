@@ -10,7 +10,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'mailto:jmchun95h@hotmail.com',
+    link: 'mailto:jmchun95@hotmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

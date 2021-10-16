@@ -1,3 +1,6 @@
+![image info](images/ravikant.jpg)
+- Naval Ravikant is an entrepreneur and investor. He is the co-founder, chairman and former CEO of AngelList.
+
 # How to Get Rich (without getting lucky)
 
 - Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
