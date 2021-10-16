@@ -1,5 +1,4 @@
-<br><br>
-![image info](images/beats.jpg)
+![image info](images/agg.jpg)
 <br><br>
 - > Since love grows within you, so beauty grows. For love is the beauty of the soul.
 - Patience is the companion of wisdom.

@@ -1,4 +1,4 @@
-![image info](images/beatss.jpg)
+![image info](images/beats.jpg)
 # First
 <audio controls>   
     <source src="/beats/Oct-21/winter.mp3" type="audio/mpeg"> 
