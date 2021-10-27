@@ -22,6 +22,7 @@ const SideBar = () => (
           {!window.location.pathname.includes('/aristotle-quotes') ? <Link to="/aristotle-quotes" className="button">Aristotle</Link> : <Link to="/aristotle-quotes" className="button">Aristotle</Link>}
           {!window.location.pathname.includes('/augustine') ? <Link to="/augustine" className="button">Augustine</Link> : <Link to="/augustine" className="button">Augustine</Link>}
           {!window.location.pathname.includes('/beats') ? <Link to="/beats" className="button">Beats</Link> : <Link to="/beats" className="button">Beats</Link>}
+          {!window.location.pathname.includes('/purity') ? <Link to="/purity" className="button">Purity</Link> : <Link to="/purity" className="button">Purity</Link>}
           {!window.location.pathname.includes('/naval-tweet') ? <Link to="/naval-tweet" className="button">Ravikant</Link> : <Link to="/naval-tweet" className="button">Ravikant</Link>}
         </li>
       </ul>

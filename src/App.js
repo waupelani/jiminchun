@@ -19,6 +19,7 @@ const NavalTweet = lazy(() => import('./pages/Naval-Tweet'));
 const AristotleQuotes = lazy(() => import('./pages/Aristotle-Quotes'));
 const Beats = lazy(() => import('./pages/Beats'));
 const Augustine = lazy(() => import('./pages/Augustine'));
+const Purity = lazy(() => import('./pages/Purity'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -34,6 +35,7 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/augustine" component={Augustine} />
+        <Route path="/purity" component={Purity} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
