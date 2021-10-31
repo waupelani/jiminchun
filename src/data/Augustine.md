@@ -1,6 +1,4 @@
-![image info](images/agg.jpg)
-<br><br>
-- > Since love grows within you, so beauty grows. For love is the beauty of the soul.
+- Since love grows within you, so beauty grows. For love is the beauty of the soul.
 - Patience is the companion of wisdom.
 - It was pride that changed angels into devils; it is humility that makes men as angels.
 - The world is a book, and those who do not travel read only a page.
