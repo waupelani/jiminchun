@@ -44,5 +44,34 @@ shame on you
 for I am the thinner
 meaner
 side of dilla.
+
+This sit midi 
+the hello fund of all 
+babies and post born 
+adults withschizos
+
+My mind sings like
+it sizzles
+past the aions
+and pasificts
+the turn of the centruies
+the age of the misfits
+
+my my is what projects on to the wrold
+I am the rememdy a god fo the time
+
+THe sound is all I sseee
+
+The time is what I know
+I am the sinner of the born ahters
+the time is where so 
+She is the vibe
+of the time
+I know where I ned to go
+And she is right
+
+rnyrtysin
+master bate
+
 ```
 end
