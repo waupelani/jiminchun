@@ -13,13 +13,13 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Tweet = () => (
   <Main
-    title="Purity Notes"
-    description="Purity Notes"
+    title="aram"
+    description="aram"
   >
     <article className="post markdown" id="yes">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/augustine">Purity Notes</Link></h2>
+          <h2 data-testid="heading"><Link to="/augustine">ARAM ADC</Link></h2>
         </div>
       </header>
       <ReactMarkdown
