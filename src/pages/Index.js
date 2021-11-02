@@ -17,8 +17,11 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website.
+      <p> Welcome to my website. This site was created with React.
       </p>
+      <p>Check out my <a href="https://www.behance.net/jimdoge" target="_blank" rel="noopener noreferrer">work!</a>.</p>
+      <p>Check out my <a href="https://www.redbubble.com/people/joomynoomy/shop?asc=u&ref=account-nav-dropdown" target="_blank" rel="noopener noreferrer">store!</a>.</p>
+      <p>Check out my <a href="https://www.youtube.com/channel/UCxUgMd_UEbveVjKbOGvgvdA/videos" target="_blank" rel="noopener noreferrer">music!</a>.</p>
     </article>
   </Main>
 );
