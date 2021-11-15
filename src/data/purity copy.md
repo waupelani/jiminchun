@@ -87,3 +87,29 @@ end of one and start of one
 b of 1 and a 2 is smooth
 also
 a of 1 and b of 2 is smooth
+
+
+provincial qulaity
+nothing is stopping me
+cuz momma is nto well
+bark at me you will
+
+get it how i can 
+nothing can stop me
+momma is ill
+so you know
+i dont care 
+i dont know fear
+
+because I gotta go
+know I know Im breaking the law
+but I just do it because
+I gotta go
+
+
+Break the law
+I gotta go
+
+keep moving
+the motto
+that I chose

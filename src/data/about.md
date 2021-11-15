@@ -173,5 +173,198 @@ as for I have had the king's eyes
 For it is you that falls beneath me
 and how shameful as I am who I know to be the most humble
 
+11/1/2021
 
+Countless Pain I know in the world exists
+but my music
+is about the pain that I can feel
+in which I can understand
+that I am experiencing
+
+I feel therefore I exist
+
+I exist therefore I must art
+
+To art I must thrive for excellence
+
+For excellence I need to 
+
+put in deliberate intention
+
+deliberate intention in 
+
+expressing myself
+
+to express is to 
+
+11/1
+
+꿈을 꿧어
+On a coastline surroundbed by cafes that start with T
+I walk a path trailed by a gay old couple men.
+
+I reach down a slope and see Jiyoon
+She tells me to 그만찝쩍거려
+
+Just on my way back form 
+sexually disagreed by 기쁨
+
+But dilla snare is telling
+me to go on
+
+because life is a gift
+and we are here to give
+
+love a
+
+FPC hiphop 12 is good
+
+There are no weak or wack bars
+
+With confidence no bar is weak or wack
+With flow comes confidence in the mind
+Whatever flows can never be wack
+
+
+this is jumi's forest where animals are educated by the greatest
+minds of animal kingdom to good forest (life)
+how to make a good forest
+educated they eat the excess stuff of forest
+
+professor auntie for her what makes a good forest
+is a forest that has clean air and a a lot of food
+it is her duty to educate these animals
+and make sure they become animals
+that look good to the forest
+
+tired but must go on to educate these kids
+give them dream and hope ambition to become the best creature of the forest
+But they dont see the forest
+
+you are in the forest
+this is a one big forest
+
+numy wants to be accepted to birdland the forest for the free creatures
+where you learn to fly higher to the sky where limits of science are testsed
+
+jumy doesnt reallywant antyhing ormorel ike he is afraid. He questions back
+those who askhim of his depression how can I want something that I dont want
+
+It's hard to be happy by myself
+
+but it is impossible with others....
+-_-
+
+
+for joomgy noomi joum 
+
+to rap the korean highlight
+올라가기전에 inst 가 있는데 주로
+그것을 샘플링하면 되겠다
+
+after the first chorus
+
+I am a pussy
+I am hiding 
+
+oh temperance i did the show
+the time is now and never
+i will b writing forver
+
+it is now over never
+if hat s
+
+powersh
+image 
+cross p
+
+time is now
+to take up arms
+go on live
+can't snow
+tme sky 
+time is v
+love is good
+sky is blue
+brace all thee
+god almighty
+
+bring me close to you
+art in thee
+
+song for thee
+thy myself
+bless thou art
+thou art great
+time is bless
+she make see
+blue is me
+got in me
+heavenly father 
+jeesus
+christ jesus christ jesuschrist
+jesus christ
+help me see
+run to yuo 
+
+dance for days
+drink for years
+park in lot
+bring me the gone
+help e concentrate
+the tme is npw the sea of god the unconsicous battle
+let me see the great work the pianist of the time the wahat I qant to do is write to be to write down ym thoyghts help others realize what they been lacking
+what they need to sapp
+
+i am the sappling oh god. the jumi and the right thteri  yunch the t
+the bleed to death 'gh et
+
+ghaslhty beings  beings jesus christ i run to three
+감정으로 밀고 나가야하는게
+내 머리속의 방식
+
+앉아있어서 이루어진것 없어서
+일어서ㅓㅅ 나갸아ㅑ하는것
+이건 그냥 앉으면 
+꿈처럼 이뤄저
+이건 내 무으식
+지능과 지성없이도 되지만
+나ㅡㄴ ㄴ순수한 지성을 위해
+이 것을 받치겠네
+
+춤을 춰서
+
+온 힘을 다하여 
+내 생각을 하나 하나 씩
+찍어 나가리
+집중력과 고도의 힘
+높은음 무지개
+개울가 미치저던
+속마음 에 잠궈버린
+우무술속 비밀함
+나는야 이시대 야만이
+바보야 나같은 머리론 못살아
+아저씨 쫌 봐줘요
+
+바지락 칼국수
+수비수 나이스
+머리속 바이슨
+더이상 수제비
+하리수 나이스
+머리숯 멋있어
+속으로 떠있어
+jiminchun
+get some
+아직은 다있어
+장의사 칼있어
+속으론 다있어
+
+버스판 표지판
+저절로 온다면 내게로 오게해
+
+하기싫어도
+끈기갖고 해왔어
+
+girl that i thought i would marry
+kept saying no so i
 

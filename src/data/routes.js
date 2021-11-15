@@ -5,8 +5,8 @@ const routes = [
     path: '/',
   },
   {
-    label: 'Beats',
-    path: '/beats',
+    label: 'Works',
+    path: '/works',
   },
 ];
 
