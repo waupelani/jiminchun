@@ -22,6 +22,7 @@ const Augustine = lazy(() => import('./pages/Augustine'));
 const Aram = lazy(() => import('./pages/Aram'));
 const Works = lazy(() => import('./pages/Works'));
 const Test = lazy(() => import('./pages/Test'));
+const Image = lazy(() => import('./pages/Image'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -40,6 +41,7 @@ const App = () => (
         <Route path="/aram" component={Aram} />
         <Route path="/test" component={Test} />
         <Route path="/works" component={Works} />
+        <Route path="/images" component={Image} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
