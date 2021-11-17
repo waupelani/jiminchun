@@ -1,6 +1,10 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    image: '/images/works/sample.jpg',
+    desc: '',
+  },
+  {
     image: '/images/works/heading.webp',
     desc: '',
   },
