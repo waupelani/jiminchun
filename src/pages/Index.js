@@ -13,7 +13,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
           <p>
-            JIMIN CHUN PORTFOLIO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+            난 할 수 있다 혼자 모든걸 마음만 먹으면 할 수 있다 안되는건 없다
           </p>
         </div>
       </header>
