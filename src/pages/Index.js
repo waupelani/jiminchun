@@ -15,6 +15,9 @@ const Index = () => (
           <p>
             I can do all things through him
           </p>
+          <p>
+            I can do all things through him
+          </p>
         </div>
       </header>
       <p> Welcome to my website. This site was created with React.
