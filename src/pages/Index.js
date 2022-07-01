@@ -13,10 +13,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
           <p>
-            I can do all things through him
-          </p>
-          <p>
-            I can do all things through him
+            Hi, I&apos;m a graphic designer.
           </p>
         </div>
       </header>
