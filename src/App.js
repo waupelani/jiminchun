@@ -16,6 +16,7 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 const NavalTweet = lazy(() => import('./pages/Naval-Tweet'));
+const fouroneone = lazy(() => import('./pages/411'));
 const AristotleQuotes = lazy(() => import('./pages/Aristotle-Quotes'));
 const Beats = lazy(() => import('./pages/Beats'));
 const Augustine = lazy(() => import('./pages/Augustine'));
@@ -31,6 +32,7 @@ const App = () => (
         <Route exact path="/" component={Index} />
         <Route path="/about" component={About} />
         <Route path="/naval-tweet" component={NavalTweet} />
+        <Route path="/411" component={fouroneone} />
         <Route path="/aristotle-quotes" component={AristotleQuotes} />
         <Route path="/projects" component={Projects} />
         <Route path="/stats" component={Stats} />
