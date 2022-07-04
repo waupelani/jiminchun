@@ -8,11 +8,6 @@ import Main from '../layouts/Main';
 // uses babel to load contents of file
 const markdown = raw('../data/411.md');
 
-const count = markdown.split(/\s+/)
-  .map((s) => s.replace(/\W/g, ''))
-  .filter((s) => s.length).length;
-const min = Math.floor(count / 200);
-
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 

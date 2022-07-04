@@ -13,7 +13,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Jimin Chun</Link></h2>
           <p>
-            814-338-577seven  
+            814-338-577seven
           </p>
         </div>
       </header>
